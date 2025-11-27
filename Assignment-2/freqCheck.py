@@ -8,4 +8,5 @@ for w in word:
     freq[w] += 1
   else:
     freq[w] = 1
+print("Words haruko frequency")
 print(freq)
